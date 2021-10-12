@@ -2,3 +2,4 @@ changes from Remote.
 
 changes from local
 New changes from local
+New changes from Remote.
